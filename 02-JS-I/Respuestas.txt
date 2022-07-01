@@ -1,0 +1,26 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+Respuestas:
+
+Variables: Son cajas donde podras guardar algo que necesites mas adelante, pero bien esta caja tiene algo adicional/especial y es que tiene una 
+etiqueta afuera con un nombre, por ejemplo una caja con una etiqueta que dice juguetes,cartas,videojuegos,pelotas y calcetines.Con esto otra persona
+si va y mira estas cajas sabra de que iran cada una, dentro de la caja de juguetes consigue los juguetes, dentro de la caja de videojuegos consigue
+videojuegos y asi con cada una de ellas  
+
+String: Es todo lo que puedes escribir para dar un mensaje a una persona y no posee un numero alguno. 
+
+Funciones: Son como las maquinas de golosinas, si introduces la moneda adecuada esta te dara la golosina que le hayas pedido, pero si no le colocas
+una moneda sino un boton la maquina te dira por una pantalla que lo que introduciste no es una moneda y no te dara una golosina
+
+Declaraciones if: Si quieres comprar un balon de futbol debe tener dinero *Si* tienes el dinero suficiente lo compras, si no tienes el dinero 
+suficiente entran otras opciones como: Si tus padres te dan el dinero suficiente lo compras sino no podras o si vendes la consola y esta consola
+cuesta igual o mas que el balon que quieres puedes comprarte el balon, asi funciona el If 
+
+Valores booleanos: Estas ayudando a un familiar a encender y apagar las luces de un auto, tu solo tocas un boton uno dice encendido y otro dice 
+apagado. Si te dicen 'Enciende las luces' le das en el boton encender estas luces estaran true y cuando te digan 'Apaga las luces' y tocas el boton
+apagar estas luces estaran 'false' o apagadas
